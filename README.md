@@ -55,7 +55,7 @@ Minecraft > games > com.mojang > resource_packs >
 ## 如何更改词条
 - 下载示例纹理包[点此](https://aka.ms/resourcepacktemplate)
 - 解压并打开示例纹理包的texts\zh_CN.lang文件
-- [遵守格式](#其他：词条格式)查找并更改更改你想要的词条
+- [遵守格式](#%E5%85%B6%E4%BB%96%E8%AF%8D%E6%9D%A1%E6%A0%BC%E5%BC%8F)查找并更改更改你想要的词条
 - 加入自己的纹理包[（不会制作纹理包？）](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E5%88%B6%E4%BD%9C%E8%B5%84%E6%BA%90%E9%99%84%E5%8A%A0%E5%8C%85)
 
 ## 其他：词条格式
