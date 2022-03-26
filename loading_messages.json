@@ -1,0 +1,38 @@
+//你无法在这里面改tips，你只能去原版语言增强包\texts\zh_CN.lang中更改
+//只需要改一下“tips.game.[数字]”后面的词就行了，很简单
+//记得，加词的话不仅zh_CH文件里加“tips.game.[数字]”这里也要加一个，不然没效果，记得加逗号哦！
+//我本来想要整一个在这里直接改的，但是老是显示不出来，无奈只好改成最早的tips显示...
+{
+  "loading_messages": [    
+    "tips.game.1",
+    "tips.game.2",
+    "tips.game.3",
+    "tips.game.4",
+    "tips.game.5",
+    "tips.game.6",
+    "tips.game.7",
+    "tips.game.8",
+    "tips.game.9",
+    "tips.game.10",
+    "tips.game.11",
+    "tips.game.12",
+    "tips.game.13",
+    "tips.game.14",
+    "tips.game.15",
+    "tips.game.16",
+    "tips.game.17",
+    "tips.game.18",
+    "tips.game.19",
+    "tips.game.20",
+    "tips.game.21",
+    "tips.game.22",
+    "tips.game.23",
+    "tips.game.24",
+    "tips.game.25",
+    "tips.game.26",
+    "tips.game.27",
+    "tips.game.28",
+    "tips.game.29",
+    "tips.game.30"
+  ]
+}
