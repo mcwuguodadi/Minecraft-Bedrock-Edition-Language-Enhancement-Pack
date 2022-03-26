@@ -14,14 +14,14 @@
 						"a":{
 						"type":"label",
 						"font_scale_factor":1.5,
-						"text":"pack.info0"
+						"text":" "
 						}
 					},
 			{
 				"0":{
 					"type":"label",
-					"font_scale_factor":1.2,
-					"text":"\n\n§4§l为什么要制作这个材质包？\n正如材质包的名字，我制作这个包是为了拯救基岩版极其不负责任的机翻翻译，夹杂着一些恶搞内容"
+					"font_scale_factor":5,
+					"text":"§g§l即将到来"
 				}
 			},
 			{

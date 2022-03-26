@@ -54,6 +54,36 @@ tips.game.28=你知道吗：作者mcwuguodadi是个萝莉控！
 tips.game.29=你知道吗：智乃卡哇伊！
 tips.game.30=你知道吗：作者B站308086803 YouTube：mcwuguodadi
 
+##preview 1.18.30.29译名更改
+entity.allay.name=轻灵（暂译）	#
+item.spawn_egg.entity.allay.name=生成轻灵（暂译）	#
+action.interact.allay=轻灵（暂译）	#
+
+##新创建世界界面
+hbui.CreateNewWorld.general.internalBetaNotificationDescription=我们想听听您对这个新设计的意见。请注意新设计还未完工，可能缺失一些功能。	#
+hbui.CreateNewWorld.general.worldNamePlaceholder=未命名的世界	#
+hbui.CreateNewWorld.general.optOutOfBetaModal.message=如果返回旧设计，那么您将重新开始这些设置。确定要继续？	#
+hbui.AchievementDisabledModal.multipleSettingsMessage=使用当前设置，您将无法在这个世界中获得成就。\n如果您想获得成就，请在创建世界之前更改以下设置：	#
+hbui.AchievementDisabledModal.oneSettingMessage=使用当前设置，您将无法在这个世界中获得成就。\n如果您想获得成就，请在创建世界之前更改以下设置：	#
+hbui.CreateNewWorld.general.internalBetaNotificationTitle=欢迎使用新设计预览！	#
+hbui.CreateNewWorldSideMenu.create=创建	#
+hbui.CreateNewWorld.advanced.tntExplodesDescription=TNT会爆炸	#
+hbui.CreateNewWorld.advanced.firesSpreadsDescription=火焰可以在方块之间蔓延	#
+hbui.CreateNewWorld.advanced.respawnBlocksExplodeDescription=重生锚和床会在末地和地狱中爆炸	#
+hbui.CreateNewWorld.advanced.mobLootDescription=生物在被杀后是否会掉落战利品	#
+hbui.CreateNewWorld.advanced.tileDropsDescription=方块被破坏后是否会掉落物品	#
+hbui.CreateNewWorld.multiplayer.multiplayerGameDescription=其他玩家是否可以加入您的世界	#
+hbui.CreateNewWorld.multiplayer.playerAccessFriendsDescription=任何您已添加为Xbox好友的人都可以加入	#
+hbui.CreateNewWorld.multiplayer.nintendoPlayerAccessInvitedDescription=任何您发送邀请的人都可以加入	#
+hbui.CreateNewWorld.multiplayer.playerAccessFriendsOfFriendsDescription=您的Xbox的好友添加的好友可以加入	#
+hbui.CreateNewWorld.cheats.title=作弊	#
+hbui.CreateNewWorld.resourcePacks.sharedPacksDescription=玩家需要下载所有正在使用的包才能加入	#
+hbui.CreateNewWorld.resourcePacks.emptyLocalActivePacksMessageTitle=没有正在使用的资源包	#
+hbui.CreateNewWorld.resourcePacks.globalPacksInfoMessage=全局包在您的所有世界中都处于使用状态，可以在设置进行编辑。	#
+hbui.CreateNewWorld.resourcePacks.emptyLocalActivePacksMessageDescription=是否想改变这个世界的外观？请尝试激活“可用”下的纹理包。	#
+hbui.CreateNewWorld.resourcePacks.emptyLocalActivePacksMessageTitle=没有活跃的纹理包	#
+hbui.CreateNewWorld.resourcePacks.emptyLocalActivePacksMessageDescription=是否想改变这个世界的外观？请尝试激活“可用”下的纹理包。	#
+
 ##版本1.18新增
 tile.large_amethyst_bud.name=大型紫晶芽	#
 tile.medium_amethyst_bud.name=中型紫晶芽	#
