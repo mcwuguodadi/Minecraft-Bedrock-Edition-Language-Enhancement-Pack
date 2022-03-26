@@ -9,7 +9,7 @@
 4. [我该如何下载这个纹理包？](#%E6%88%91%E8%AF%A5%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BD%E8%BF%99%E4%B8%AA%E7%BA%B9%E7%90%86%E5%8C%85)
 5. [我该注意些什么？](#%E6%88%91%E8%AF%A5%E6%B3%A8%E6%84%8F%E4%BA%9B%E4%BB%80%E4%B9%88)
 6. [安装](#安装)
-7. [开发](#开发)
+7. [制作](#制作)
     1. [如何更改词条](#如何更改词条)
     2. [其他：词条格式](#%E5%85%B6%E4%BB%96%E8%AF%8D%E6%9D%A1%E6%A0%BC%E5%BC%8F)
 8. [感谢](#感谢)
@@ -49,7 +49,7 @@ C:\Users\\**你的用户名**\AppData\Local\Packages\Microsoft.MinecraftUWP_8wek
 - 第一种：在文件App中共享下载好的.mcpack文件，选择Minecraft，游戏会自动打开并导入。
 - 第二种：在任意一款可以解压缩的App中将后缀改为.zip并解压到（记得多创建一个文件夹）：
 Minecraft > games > com.mojang > resource_packs >
-# 开发
+# 制作
 ## 如何更改词条
 - 下载示例纹理包[点此](https://aka.ms/resourcepacktemplate)
 - 解压并打开示例纹理包的texts\zh_CN.lang文件
