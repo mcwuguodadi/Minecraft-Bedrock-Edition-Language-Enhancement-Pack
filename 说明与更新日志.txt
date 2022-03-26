@@ -1,3 +1,5 @@
+GitHub仓库：https://github.com/mcwuguodadi/Minecraft-Bedrock-Edition-Language-Enhancement-Pack
+记得加Star！
 注：
 本包与官方译名不同，可能会误导，请谨慎使用！
 该包仅基岩版[手机版/win10版]可用！[中国版未知]
@@ -25,6 +27,10 @@ YouTube：mcwuguodadi
 ————————————————————————————————————————————————————————————————————————————————————————————————————————
 语言增强包更新日志：
 注：标*的为未确定译名临时纠正
+V1.5.7.2[22/3/26]
+日志新增加GitHub仓库链接
+[https://github.com/mcwuguodadi/Minecraft-Bedrock-Edition-Language-Enhancement-Pack]
+
 V1.5.7.1[22/3/25]
 本次更新为1.5.7的增强更新
 词条修改
