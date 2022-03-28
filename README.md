@@ -59,16 +59,19 @@ Minecraft > games > com.mojang > resource_packs >
 - 加入自己的纹理包[（不会制作纹理包？）](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E5%88%B6%E4%BD%9C%E8%B5%84%E6%BA%90%E9%99%84%E5%8A%A0%E5%8C%85)
 
 ## 其他：词条格式
-- 命名空间ID<1>=词条内容
+- *你可以安装Visual Studio Code并安装“Minecraft Lang Colorizer<1>”扩展以区分这些
+- 命名空间ID<2>=词条内容
 - 如level.name=等级名称
 - [命名ID] = [词条内容]
 - Java版相同，只不过换成了json语言，需要遵守json的格式
-- 如果需要使用变色符号“§”，则需要使用**英文输入法**然后按住**Alt+数字键盘1、6、7**[中文输入法会出现"?"符号]，然后接上变色字母就行<2>
+- 如果需要使用变色符号“§”，则需要使用**英文输入法**然后按住**Alt+数字键盘1、6、7**[中文输入法会出现"?"符号]，然后接上变色字母就行<3>
 - **命名ID不能复制错或者多空格，否则在游戏中无任何效果**
+- 你也可以使用“##”给你的词条打注释
 
 - 注释：
-- <1>详细内容请见[命名空间ID](https://wiki.biligame.com/mc/%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4ID)
-- <2>详细内容请见[格式化代码](https://wiki.biligame.com/mc/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)
+- 链接：https://marketplace.visualstudio.com/items?itemName=zz5840.minecraft-lang-colorizer
+- <2>详细内容请见[命名空间ID](https://wiki.biligame.com/mc/%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4ID)
+- <3>详细内容请见[格式化代码](https://wiki.biligame.com/mc/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)
 
 # 感谢
 感谢以下人员或团体提供的帮助
