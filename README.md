@@ -2,6 +2,8 @@
 ![](https://raw.githubusercontent.com/mcwuguodadi/Minecraft-Bedrock-Edition-Language-Enhancement-Pack/main/github.png)
 - 一个纠正Minecraft基岩版中文机翻的语言增强包（**Chinese Only**）
 - 这个纹理包**仅支持中文**，是通过纹理包来修改原版语言
+- 如果你需要Java版的，请移步到[我的另一个纹理包仓库](https://github.com/mcwuguodadi/Mcwuguodadi-s-Minecraft-Texture-Packs-Warehouse)
+- **注：Java版的原版增强纹理包为弃坑的状态，暂时制作到了1.17版本**
 ## 目录
 1. [授权](#授权)
 2. [联系方式](#联系方式)
