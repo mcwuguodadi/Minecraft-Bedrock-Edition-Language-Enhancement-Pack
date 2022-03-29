@@ -11,6 +11,7 @@
 6. [安装](#安装)
     1. [PC端安装方式](#pc%E7%AB%AF%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F)
     2. [iOS端安装方式](#ios%E7%AB%AF%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F)
+    3. [安卓端安装方式](#安卓端安装方式)
 7. [制作](#制作)
     1. [如何更改词条](#如何更改词条)
     2. [其他：词条格式](#%E5%85%B6%E4%BB%96%E8%AF%8D%E6%9D%A1%E6%A0%BC%E5%BC%8F)
@@ -51,6 +52,10 @@ C:\Users\\**你的用户名**\AppData\Local\Packages\Microsoft.MinecraftUWP_8wek
 - 第一种：在文件App中共享下载好的.mcpack文件，选择Minecraft，游戏会自动打开并导入。
 - 第二种：在任意一款可以解压缩的App中将后缀改为.zip并解压到（记得多创建一个文件夹）：
 Minecraft > games > com.mojang > resource_packs >
+## 安卓端安装方式
+- 因为我本人没有安卓机，可能跟实际有些许偏差，见谅
+- 第一种：在文件管理器里打开下载好的.mcpack文件，选择打开方式为“Minecraft”
+- 第二种：[参考链接](https://mcpedl.com/how-to-install-minecraft-pe-texture-packs-for-android/)[来自mcpedl]
 # 制作
 ## 如何更改词条
 - 下载示例纹理包[点此](https://aka.ms/resourcepacktemplate)
