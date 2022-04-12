@@ -54,6 +54,9 @@ tips.game.28=你知道吗：作者mcwuguodadi是个萝莉控！
 tips.game.29=你知道吗：智乃卡哇伊！
 tips.game.30=你知道吗：作者B站308086803 YouTube：mcwuguodadi
 
+##preview1.19.0.21 text
+createWorldScreen.gameMode.spectator=旁观者模式
+
 ##preview1.18.30.31译名更改
 itemGroup.name.chestboat=箱船（暂译）
 
