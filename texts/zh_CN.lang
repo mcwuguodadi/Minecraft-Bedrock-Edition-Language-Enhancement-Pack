@@ -54,14 +54,16 @@ tips.game.28=你知道吗：作者mcwuguodadi是个萝莉控！
 tips.game.29=你知道吗：智乃卡哇伊！
 tips.game.30=你知道吗：作者B站308086803 YouTube：mcwuguodadi
 
-##preview1.19.0.25 upd
-item.recovery_compass.name=追溯指针
-item.echo_shard.name=回响碎片
+##译名更改
+action.interact.allay=悦灵	#
 
-##preview1.19.0.21 text
 createWorldScreen.gameMode.spectator=旁观者模式
 
-##译名更改
+entity.allay.name=悦灵	#
+
+item.disc_fragment.name=唱片碎片
+item.recovery_compass.name=追溯指针
+item.echo_shard.name=回响碎片
 itemGroup.name.chestboat=运输船
 item.chest_boat.oak.name=橡木运输船	#
 item.chest_boat.spruce.name=云杉木运输船	#
@@ -70,8 +72,9 @@ item.chest_boat.jungle.name=丛林木运输船	#
 item.chest_boat.acacia.name=金合欢木运输船	#
 item.chest_boat.big_oak.name=深色橡木运输船	#
 item.chest_boat.mangrove.name=红树木运输船	#
-
 item.spawn_egg.entity.warden.name=生成监守者	#
+itemGroup.name.sculk=幽匿	#
+item.spawn_egg.entity.allay.name=生成悦灵	#
 
 tile.sculk_sensor.name=幽匿感测体	#
 tile.sculk.name=幽匿块	#
@@ -79,11 +82,6 @@ tile.sculk_vein.name=幽匿脉络	#
 tile.sculk_catalyst.name=幽匿催发体	#
 tile.sculk_shrieker.name=幽匿尖啸体	#
 tile.reinforced_deepslate.name=强化深板岩	#
-itemGroup.name.sculk=幽匿	#
-
-entity.allay.name=悦灵	#
-item.spawn_egg.entity.allay.name=生成悦灵	#
-action.interact.allay=悦灵	#
 
 ##新创建世界界面（实验功能）
 hbui.CreateNewWorld.general.internalBetaNotificationDescription=我们想听听您对这个新设计的意见。请注意新设计还未完工，可能缺失一些功能。	#
