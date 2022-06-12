@@ -8,6 +8,7 @@ GitHub仓库：https://github.com/mcwuguodadi/Minecraft-Bedrock-Edition-Language
 V1.2.1以上的版本下载：
 天翼云盘：https://cloud.189.cn/t/QBj2uavmaeIr (访问码:0r7h)
 OneDrive：https://www.mcwuguodadi.cn/mcbele-od
+    （备用链接）：https://mcwuguodadi-my.sharepoint.com/personal/admin_mcwuguodadi_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadmin%5Fmcwuguodadi%5Fcn%2FDocuments%2F%E6%9D%90%E8%B4%A8%E5%8C%85%2F%E5%9F%BA%E5%B2%A9%E7%89%88%E5%8E%9F%E7%89%88%E8%AF%AD%E8%A8%80%E5%A2%9E%E5%BC%BA%E5%8C%85&ga=1
 [拒绝度盘，从我做起]
 ————————————————————————————————————————————————————————————————————————————————————————————————————————
 该包由mcwuguodadi制作，其他非我个人上传的渠道请联系我
@@ -27,6 +28,30 @@ YouTube：mcwuguodadi
 ————————————————————————————————————————————————————————————————————————————————————————————————————————
 语言增强包更新日志：
 注：标*的为未确定译名临时纠正
+V1.6.0[22/6/12]
+译名更改：
+    生成青蛙更改为蝌蚪卵
+    红油辣条更改为腐肉
+    糖果更改为糖
+    胫骨更改为骨头
+    生食更改为生食物
+    珊瑚装饰更改为海洋植物
+    知识！大量的知识！改为书架
+    铁轨改为普通铁轨
+    矿车更改为普通矿车
+    三硝基甲苯炸药更改为TNT
+    创造模式组合“马甲”更改为马铠
+    熟食更改为熟食物
+    复合滑轮弓更改为弓
+    化石更改为骨块
+    天涯共此石更改为磁石
+    生成大河豚更改为生成远古守卫者
+    生成小河豚更改为生成守卫者
+版本适配：
+    正式版1.19.0
+    Preview1.19.10.22
+更新与说明日志新增OneDrive备用链接
+
 V1.5.9.2[22/4/30]
 译名更改：
     Disc Fragment暂时翻译为唱片碎片
