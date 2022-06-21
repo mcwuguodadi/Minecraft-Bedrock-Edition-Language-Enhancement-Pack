@@ -1,5 +1,5 @@
 # Minecraft基岩版语言增强纹理包（简称:mcbele）
-![](https://github.com/mcwuguodadi/Minecraft-Bedrock-Edition-Language-Enhancement-Pack/blob/main/github.png)
+![](https://imgtu.com/i/jS7waq)
 - 一个纠正Minecraft基岩版中文机翻的语言增强包（**Chinese Only**）
 - 这个纹理包**仅支持中文**，是通过纹理包来修改原版语言
 - 如果你需要Java版的，请移步到[我的另一个纹理包仓库](https://github.com/mcwuguodadi/Mcwuguodadi-s-Minecraft-Texture-Packs-Warehouse)
