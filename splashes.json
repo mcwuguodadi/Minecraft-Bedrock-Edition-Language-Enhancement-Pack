@@ -1,5 +1,6 @@
 //这个文件是修改主界面的副标题的，改之前请获取允许！
 //未经允许，严禁改包！
+//部分内容来自ZouChenyunfei
 {
   "splashes": [
     "mojang_and_bugs",
@@ -42,6 +43,7 @@
     "如有侵权请邮件发至mcwuguodadi@outlook.com",
     "2333",
     "Visual Studio Code真好用！",
-    "1145.14版本更新：移除了HIM"
+    "1145.14版本更新：移除了HIM",
+    "Technoblade Never Dies!"
   ]
 }

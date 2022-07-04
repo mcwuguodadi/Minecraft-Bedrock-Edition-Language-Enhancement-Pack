@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
         "description": "应用后重启游戏以完全生效，有BUG发邮件至mcwuguodadi@outlook.com",
-        "name": "§l§g基岩版§r§l§9原版语言增强包§r §g§lV1.5.9§r",
-        "uuid": "b3b0dbf5-9e12-412d-93b4-6481f8c684f5",
-        "version": [1,6,0],
+        "name": "§l§g基岩版§r§l§9原版语言增强包§r §g§lV1.6.1§r",
+        "uuid": "a04c9826-7cc4-4002-9903-ce0c950d17b8",
+        "version": [1,6,1],
         "min_engine_version": [1 , 13, 0]            
     },
     "modules": [
         {
             "description": "§g§l基岩版§r§9§l原版语言增强包§rBY:§l§9mcwuguodadi",
             "type": "resources",
-            "uuid": "a0e9043a-7525-41c7-ac6b-9c2dfa69ff3b",
-            "version": [1,6,0]
+            "uuid": "b41f3c6c-fb04-490c-bffc-6650fe4bb52e",
+            "version": [1,6,1]
         }
     ]
 }

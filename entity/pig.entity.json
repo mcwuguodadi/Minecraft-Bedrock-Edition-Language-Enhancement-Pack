@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:pig",
+      "min_engine_version": "1.8.0",
+      "materials": { "crown": "skeleton" },
+      "textures": {
+        "crown": "textures/entity/pig/crown",
+        "none": "textures/entity/llama/decor/decor_none"
+      },
+      "geometry": {
+        "crown": "geometry.pig_crown"
+      },
+      "render_controllers": [ "controller.render.pig", "controller.render.pig_crown" ]
+    }
+  }
+}

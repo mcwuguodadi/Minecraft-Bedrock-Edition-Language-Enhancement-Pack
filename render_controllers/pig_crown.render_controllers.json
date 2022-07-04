@@ -1,0 +1,24 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+        "controller.render.pig_crown": {
+            "arrays": {
+                "textures": {
+                    "Array.skins": [
+                        "Texture.none",
+                        "Texture.crown"
+                    ]
+                }
+            },
+            "geometry": "Geometry.crown",
+            "materials": [
+                {
+                    "*": "Material.crown"
+                }
+            ],
+            "textures": [
+                "(query.get_name == 'Technoblade') ? Texture.crown : Array.skins[(!query.is_alive&&query.is_alive)]"
+            ]
+        }
+    }
+}
