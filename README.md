@@ -86,6 +86,7 @@ Minecraft > games > com.mojang > resource_packs >
 - ShanShanHY
 - PCL2内群X3的群友们
 - ZouChenyunfei
-- SmallSkrua（爱发电账号Skrua樱仔）
+- [SmallSkrua](https://afdian.net/@SkruaClub)
+- [huanmeng_mizuki](https://afdian.net/@yuzuki)
 - 以及屏幕前的你
 
