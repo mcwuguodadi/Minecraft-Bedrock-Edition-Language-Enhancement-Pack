@@ -1,5 +1,5 @@
 # Minecraft基岩版语言增强纹理包（简称:mcbele）
-![](https://s1.ax1x.com/2022/06/21/jS7waq.png)
+![](http://mcwuguodadi.cn:10008/record/mcbele/readme/github.png)
 
 一个纠正Minecraft基岩版中文机翻的语言增强包（**Chinese Only**）
 
