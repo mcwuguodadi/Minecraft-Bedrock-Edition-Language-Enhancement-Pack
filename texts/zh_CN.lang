@@ -55,6 +55,27 @@ tips.game.29=你知道吗：智乃卡哇伊！
 tips.game.30=你知道吗：作者B站308086803 YouTube：mcwuguodadi
 tips.game.31=Technoblade Never Dies!
 
+#1.6.3更新
+options.defaultJoystickMoveVisible=移动摇杆始终可见	#
+options.sprintOnMovement=强制疾跑	#
+options.go_to_keybinds=转到按键绑定	#
+soundCategory.main=全部	#
+hbui.CreateNewWorld.general.gameModeSurvivalDescription=探索自己建造，收集，制作的神秘世界，与怪物战斗。	#
+hbui.CreateNewWorld.general.gameModeCreativeDescription=没有限制地创建，建造和探索。您可以飞行，拥有无穷的材料，并且不会被怪物伤害。	#
+hbui.CreateNewWorldSideMenu.generalTabLabel=主要设置	#
+hbui.CreateNewWorld.multiplayer.visibleToLanPlayersDescription=本地网络上的玩家能否加入您的世界	#
+hbui.CreateNewWorld.cheats.inventoryDescription=在您死后保留背包内的所有物品	#
+hbui.CreateNewWorld.cheats.inventoryTitle=保留背包	#
+hbui.CreateNewWorldSideMenu.betaFeaturesTabLabel=测试玩法内容	#
+hbui.Notifications.betaWarning.informationMessage=以下内容为正在测试的玩法，如果启用可能会出现BUG，尽量别开。	#
+hbui.CreateNewWorld.betaFeatures.activateBetaConfirmationConfirm=依然启用测试内容	#
+manifestvalidation.title=§g§l纹理包信息	#
+tile.packed_mud.name=泥坯	#
+
+
+
+
+
 #UI微调
 realmsCreateScreen.subscription.buy=以每月 %s §4§l[人民币]§r创建	#
 realmsCreateScreen.subscription.renew=以每月 %s §4§l[人民币]§r更新	#
@@ -159,7 +180,6 @@ hbui.CreateNewWorld.betaFeatures.gameplayDescription=必须启用的更改您的
 hbui.CreateNewWorld.betaFeatures.activateBetaConfirmationDescriptionPart1=您的世界可能会崩溃或随时停止工作。 在创造了你的世界后你将不能关闭这些功能。
 hbui.CreateNewWorld.betaFeatures.activateBetaConfirmationDescriptionPart2=在打开实验的世界中可能会丢失放置或制作的任何物品.
 
-createWorldScreen.wildUpdateDescription=尝试即将到来的1.19荒野更新中的新功能	#
 createWorldScreen.experimentalCreatorFeaturesDescription=包括生物属性和可调整的雾参数	#
 
 
@@ -3185,7 +3205,7 @@ options.touchscreen=触屏模式	#
 options.uiprofile=UI 档案	#
 options.uiprofile.classic=经典版	#
 options.uiprofile.pocket=口袋版	#
-options.usetouchpad=分离控制	#
+options.usetouchpad=十字准星	#
 options.viewSubscriptions=订阅§4§l[不值得购买]	#
 options.viewSubscriptions.button.info=信息	#
 options.viewSubscriptions.button.manage=管理	#
