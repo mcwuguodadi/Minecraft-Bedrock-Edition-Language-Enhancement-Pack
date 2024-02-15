@@ -29,12 +29,7 @@
 如果在其他**非我个人上传的渠道**遇到这个纹理包，**也请联系我！**
 
 ## 联系方式
-邮箱：mcwuguodadi@outlook.com
-
-BiliBili：308086803 [**吴国大地mcwuguodadi**]
-
-YouTube：mcwuguodadi
-
+见GitHub主页
 
 ## 更新计划
 随缘更新，跟随基岩版的更新而更新
@@ -52,7 +47,7 @@ YouTube：mcwuguodadi
 
 2. 该包仅基岩版[手机版/win10版等平台]可用！[中国版未知]。
 
-3. 游戏内添加后请重启游戏，才可体验全部内容。
+3. 游戏内添加后请重启游戏，才可完全加载全部内容。
 
 4. 材质包会在每一个大版本进行UUID的更换，跨版本过大请注意删除旧版。
 # 安装
@@ -71,7 +66,7 @@ C:\Users\\**你的用户名**\AppData\Local\Packages\Microsoft.MinecraftUWP_8wek
 第二种：在任意一款可以解压缩的App中将后缀改为.zip并解压到（记得多创建一个文件夹）：
 Minecraft > games > com.mojang > resource_packs >
 ## 安卓端安装方式
-因为我本人没有安卓机，可能跟实际有些许偏差，见谅
+因为我本人没有安卓机（最后一次改readme的时候已经有了），可能跟实际有些许偏差，见谅
 
 第一种：在文件管理器里打开下载好的.mcpack文件，选择打开方式为“Minecraft”
 
@@ -84,7 +79,7 @@ Minecraft > games > com.mojang > resource_packs >
 
 [遵守格式](#%E5%85%B6%E4%BB%96%E8%AF%8D%E6%9D%A1%E6%A0%BC%E5%BC%8F)查找并更改更改你想要的词条
 
-加入自己的纹理包[（不会制作纹理包？）](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E5%88%B6%E4%BD%9C%E8%B5%84%E6%BA%90%E9%99%84%E5%8A%A0%E5%8C%85)
+加入自己的纹理包[（不会制作纹理包？）](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E5%88%B6%E4%BD%9C%E8%B5%84%E6%BA%90%E9%99%84%E5%8A%A0%E5%8C%85)
 
 ## 其他：词条格式
 *你可以安装Visual Studio Code并安装“Minecraft Lang Colorizer<1>”扩展以区分这些
@@ -107,9 +102,9 @@ Java版相同，只不过换成了json语言，需要遵守json的格式
 
 链接：https://marketplace.visualstudio.com/items?itemName=zz5840.minecraft-lang-colorizer
 
-<2>详细内容请见[命名空间ID](https://wiki.biligame.com/mc/%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4ID)
+<2>详细内容请见[命名空间](https://zh.minecraft.wiki/w/%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4ID)
 
-<3>详细内容请见[格式化代码](https://wiki.biligame.com/mc/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)
+<3>详细内容请见[格式化代码](https://zh.minecraft.wiki/w/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)
 
 # 感谢
 感谢以下人员或团体提供的帮助
