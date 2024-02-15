@@ -41,15 +41,12 @@ YouTube：mcwuguodadi
 
 
 ## 我该如何下载这个纹理包？
-目前只有1.2.1版本及以上供各位下载...
+目前只有1.2.1及以上的版本供各位下载...
 
 [这个项目的Releases](https://github.com/mcwuguodadi/Minecraft-Bedrock-Edition-Language-Enhancement-Pack/releases)
 
-**[OneDrive](https://mcwuguodadi-my.sharepoint.com/:f:/g/personal/mcwuguodadi233_mcwuguodadi_cn/En--iArMwHVDur5QSfcYylsB7hKrg_wXnFJO1F6jXgkCcQ?e=Lq9M8x)**
-
 [天翼云盘](https://cloud.189.cn/t/QBj2uavmaeIr) **(访问码:0r7h)**
 
-最后考虑[自建网盘](http://mcwuguodadi.cn:10008/record/mcbele/)
 ## 我该注意些什么？
 1. 本包与官方译名不同，可能会误导部分玩家，请谨慎使用！
 
