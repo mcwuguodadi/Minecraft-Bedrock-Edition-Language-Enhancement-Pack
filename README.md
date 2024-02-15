@@ -36,11 +36,9 @@
 
 
 ## 我该如何下载这个纹理包？
-目前只有1.2.1及以上的版本供各位下载...
 
-[这个项目的Releases](https://github.com/mcwuguodadi/Minecraft-Bedrock-Edition-Language-Enhancement-Pack/releases)
+下载链接暂停维护，因此只能在[这个项目的Releases](https://github.com/mcwuguodadi/Minecraft-Bedrock-Edition-Language-Enhancement-Pack/releases)上下载
 
-[天翼云盘](https://cloud.189.cn/t/QBj2uavmaeIr) **(访问码:0r7h)**
 
 ## 我该注意些什么？
 1. 本包与官方译名不同，可能会误导部分玩家，请谨慎使用！
